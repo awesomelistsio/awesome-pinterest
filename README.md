@@ -31,6 +31,7 @@
 - [Canva](https://www.canva.com/pinterest-pins/) — Design high-quality Pinterest pins and graphics.
 - [Buffer](https://buffer.com/pinterest/) — Social media scheduling, including Pinterest support.
 - [Later](https://later.com/pinterest-scheduler/) — Visual Pinterest scheduler with analytics.
+- [CreatorSkills](https://creatorskills.co) — Marketplace of 30+ downloadable AI skills for content creators covering scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ## SEO & Analytics
 
