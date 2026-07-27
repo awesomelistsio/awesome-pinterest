@@ -27,6 +27,7 @@
 
 ## Pinterest Marketing Tools
 
+- [SocialClaw](https://getsocialclaw.com/) — Schedule and publish posts to Pinterest and 10 other platforms via dashboard, API, CLI, or MCP.
 - [Tailwind](https://www.tailwindapp.com/) — Pinterest scheduling, analytics, and marketing automation tool.
 - [Canva](https://www.canva.com/pinterest-pins/) — Design high-quality Pinterest pins and graphics.
 - [Buffer](https://buffer.com/pinterest/) — Social media scheduling, including Pinterest support.
