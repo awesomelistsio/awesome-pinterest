@@ -1,4 +1,4 @@
-# Awesome Pinterest [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Pinterest [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -57,9 +57,9 @@
 
 ## Related Awesome Lists
 
-- **[Awesome Social Media](https://github.com/awesomelistsio/awesome-social-media)**
-- **[Awesome Content Marketing](https://github.com/awesomelistsio/awesome-content-marketing)**
-- **[Awesome Blogging Monetization](https://github.com/awesomelistsio/awesome-blogging-monetization)**
+- **[Awesome Social Media](https://github.com/brandonhimpfen/awesome-social-media)**
+- **[Awesome Content Marketing](https://github.com/brandonhimpfen/awesome-content-marketing)**
+- **[Awesome Blogging Monetization](https://github.com/brandonhimpfen/awesome-blogging-monetization)**
   
 ## Contribute
 
